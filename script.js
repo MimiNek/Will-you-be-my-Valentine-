@@ -57,16 +57,16 @@
     }
 })();
 const prompts = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
+    "A có chắc khoonggg?",
+    "Thực sự chắc chắn??",
+    "A thực lòng đấy à;(((?",
     "Pookie please...",
     "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Nếu a từ chối , e thực sự rất buồn",
+    "e sẽ rất là buồn đấy...",
+    "e sẽ rất rất rất buồn ó",
+    "vậy thuiii , em sẽ hong hỏi nxx ;((",
+    "trôn trôn th mà , a đồng ý nhooo ❤️"
 ];
 
 let promptIndex = 0;
